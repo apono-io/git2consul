@@ -1,5 +1,8 @@
 ## Datadog modifications
 
+v0.13.4
+* Switch to spawnSync to avoid buffer limits.
+
 v0.13.3
 * Increase maxBuffer size that crashes the program when doing large KVS updates.
 
