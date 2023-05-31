@@ -1,0 +1,6 @@
+.vagrant
+coverage
+reports
+node_modules
+.idea
+*.iml
